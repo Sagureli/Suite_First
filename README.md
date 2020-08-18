@@ -1,2 +1,1 @@
-# Suite_First
-My first site.
+permalink /Fractal by HTML5 UP.html
